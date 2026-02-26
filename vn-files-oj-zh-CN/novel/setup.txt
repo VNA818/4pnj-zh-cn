@@ -1,0 +1,33 @@
+%setup%
+{
+  "title": "4% Novel Juice!",
+  "creator": "VNA818, 2025 由Alexazure An翻译",
+  "version": "(Beta) 1.0.0",
+  "title-logo": "logo.webp",
+  "home-bg": "sky.webp",
+  "color": "#FABE63",
+  "novel-base-url": "./",
+  "characters-base-url": "./vn-files/media/characters/",
+  "character-aliases": {
+    "me": ["", "", ""],
+    "mes": ["你", "", ""],
+    "p": ["不明生物", "popo", "webp"],
+    "s": ["优空", "sora", "webp"],
+    "d": ["Dice", "dice", "webp"],
+    "c": ["Card", "card", "webp"]
+  },
+  "media-base-url": "./vn-files/media/backgrounds/",
+  "media": {
+    "main": "main.webp",
+    "sky": "sky.webp",
+    "test": "none"
+  },
+  "routes": {
+    "route1": "route1.txt"
+  }
+}
+%setup%
+
+%begin%
+routeo
+%begin%

@@ -1,0 +1,52 @@
+{
+    "intro": {
+        "intro1": "原作者 github.com/VNA818 \n由Alexazure An翻译",
+        "intro2": "所有角色均为100% Orange Juice和Fruitbat Factory的商标",
+        "intro3": "使用最新的Chromium内核浏览器可在这部视觉小说中获得最佳体验"
+    },
+    "home": {
+        "start": "开始",
+        "continue": "继续",
+        "load": "读取",
+        "settings": "设置",
+        "back": "返回",
+        "loading": "加载中...",
+        "version": "版本"
+    },
+    "settings": {
+        "display": "显示方式",
+        "fullscreen": "全屏化",
+        "windowed": "窗口化",
+        "game": "游戏",
+        "textSpeed": "文本显示速度（越小越快",
+        "autoSpeed": "自动点击速度（越小越快",
+        "autoClick": "自动点击",
+        "seconds": "秒",
+        "storage": "存储",
+        "saveUsing": "1个存档共使用了{kb}kb存储空间",
+        "savesUsing": "{n}个存档共使用了{kb}kb存储空间",
+        "deleteAllSaves": "删除所有存档",
+        "deleteAllSavesConfirm": "你真的要删除所有存档吗？该操作不可恢复。",
+        "defaultSettings": "恢复默认设置",
+        "defaultSettingsConfirm": "你确定要恢复所有默认设置吗？该操作不可恢复。"
+    },
+    "load": {
+        "noSaves": "未发现存档",
+        "newSave": "创建新存档",
+        "save": "存档管理",
+        "saved": "存档成功！"
+    },
+    "menu": {
+        "quickSave": "快速保存",
+        "quickLoad": "快速加载",
+        "history": "记录",
+        "autoOn": "开启自动",
+        "autoOff": "关闭自动",
+        "menu": "菜单"
+    },
+    "pause": {
+        "pause": "暂停",
+        "dispImg": "展示图像",
+        "title": "标题"
+    }
+}
