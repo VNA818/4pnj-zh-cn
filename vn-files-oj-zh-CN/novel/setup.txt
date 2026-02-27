@@ -20,10 +20,6 @@
   "media": {
     "main": "main.webp",
     "sky": "sky.webp",
-    "test": "none"
-  },
-  "routes": {
-    "route1": "route1.txt"
   }
 }
 %setup%
