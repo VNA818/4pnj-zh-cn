@@ -1,25 +1,22 @@
 {
   "short_name": "4% Novel Juice!",
   "name": "4% Novel Juice!",
+  "description": "",
   "icons": [
     {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
+      "src": "/vn-files-oj-zh-CN/media/favicon.ico",
+      "sizes": "16x16 24x24 32x32 36x36 48x48 64x64",
       "type": "image/x-icon"
     },
     {
-      "src": "favicon.ico",
-      "type": "image/png",
-      "sizes": "192x192"
-    },
-    {
-      "src": "favicon.ico",
-      "type": "image/png",
-      "sizes": "512x512"
+      "src": "/vn-files-oj-zh-CN/media/logo.webp",
+      "type": "image/webp",
+      "sizes": "128x128 192x192 256x256 512x512"
     }
   ],
   "start_url": ".",
-  "display": "standalone",
+  "display": "fullscreen",
   "theme_color": "#FABE63",
-  "background_color": "#ffffff"
+  "background_color": "#000000",
+  "orientation": "landscape"
 }
