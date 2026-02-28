@@ -4,12 +4,12 @@
   "description": "",
   "icons": [
     {
-      "src": "/vn-files-oj-zh-CN/media/favicon.ico",
+      "src": "./vn-files-oj-zh-CN/media/favicon.ico",
       "sizes": "16x16 24x24 32x32 36x36 48x48 64x64",
       "type": "image/x-icon"
     },
     {
-      "src": "/vn-files-oj-zh-CN/media/logo.webp",
+      "src": "./vn-files-oj-zh-CN/media/logo.webp",
       "type": "image/webp",
       "sizes": "128x128 192x192 256x256 512x512"
     }
