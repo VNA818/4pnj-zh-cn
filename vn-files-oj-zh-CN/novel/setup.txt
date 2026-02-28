@@ -19,7 +19,7 @@
   "media-base-url": "./vn-files/media/backgrounds/",
   "media": {
     "main": "main.webp",
-    "sky": "sky.webp",
+    "sky": "sky.webp"
   }
 }
 %setup%
