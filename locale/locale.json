@@ -11,7 +11,8 @@
         "settings": "设置",
         "back": "返回",
         "loading": "加载中...",
-        "version": "版本"
+        "version": "版本",
+        "widenWindow": "请将你的设备横向旋转或者扩大你的浏览器窗口"
     },
     "settings": {
         "display": "显示方式",
@@ -34,7 +35,8 @@
         "noSaves": "未发现存档",
         "newSave": "创建新存档",
         "save": "存档管理",
-        "saved": "存档成功！"
+        "saved": "存档成功!",
+        "deleteSave": "Are you sure you want to revert to delete this save? This action cannot be undone."
     },
     "menu": {
         "quickSave": "快速保存",
