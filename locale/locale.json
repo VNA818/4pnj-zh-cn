@@ -36,7 +36,7 @@
         "newSave": "创建新存档",
         "save": "存档管理",
         "saved": "存档成功!",
-        "deleteSave": "Are you sure you want to revert to delete this save? This action cannot be undone."
+        "deleteSave": "你真的要删除这个存档吗？该操作不可恢复。"
     },
     "menu": {
         "quickSave": "快速保存",
