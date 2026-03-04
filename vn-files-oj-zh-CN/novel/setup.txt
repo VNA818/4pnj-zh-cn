@@ -1,7 +1,7 @@
 %setup%
 {
   "title": "4% Novel Juice!",
-  "creator": "VNA818, 2025 由Alexazure An翻译",
+  "creator": "2023-2025 VNA818, 由Alexazure An翻译",
   "version": "1.0.2",
   "title-logo": "logo.webp",
   "home-bg": "sky.webp",
